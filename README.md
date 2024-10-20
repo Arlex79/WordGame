@@ -2,7 +2,7 @@
 
 № Установка
 ```
-pip install socket, pyqt6, colorama
+pip install sockets, pyqt6, colorama
 ```
 ## Запуск
 1. Запуск сервера

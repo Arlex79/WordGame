@@ -1,6 +1,6 @@
 # WordGame
 
-№ Установка
+## Установка
 ```
 pip install pyqt6
 pip install colorama

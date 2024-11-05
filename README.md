@@ -4,6 +4,7 @@
 ```
 pip install pyqt6
 pip install colorama
+pip install pymorphy2
 ```
 ## Запуск
 1. Запуск сервера
@@ -15,7 +16,7 @@ python server.py
 python interface_client.py
 ```
 
-![image](https://github.com/user-attachments/assets/71e250d6-48da-41b9-8a1c-343532369f28)
+
 
    
    

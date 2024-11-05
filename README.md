@@ -13,7 +13,7 @@ python server.py
 ```
 2. Запуск клиента
 ```
-python interface_client.py
+python main_client.py
 ```
 
 

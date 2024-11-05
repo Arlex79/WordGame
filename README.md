@@ -16,7 +16,7 @@ python server.py
 python main_client.py
 ```
 
-
+![image](https://github.com/user-attachments/assets/903a5f20-4a83-4463-904c-856ba30f740a)
 
    
    

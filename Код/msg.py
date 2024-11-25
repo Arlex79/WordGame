@@ -1,7 +1,5 @@
 from datetime import datetime
 from time import time
-
-# current_dateTime = datetime.now()
 from colorama import init, Fore, Style
 
 colors = [Fore.BLUE, Fore.CYAN, Fore.GREEN, Fore.LIGHTBLACK_EX,
@@ -43,7 +41,6 @@ class Msg:
             self.from_ = 'server'
 
     def get_send_time(self):
-
         return datetime.fromtimestamp(self.time).strftime('%H:%M')  # '%m.%d.%Y %H:%M:%S'
 
     def is_for_print(self):
@@ -119,6 +116,4 @@ class Msg:
             print(f'In msg console_print_colored:', er)
 
 
-if __name__ == '__main__':
-    msg = Msg("We lost unnamed_127.0.0.1_50472", "server", "info", 1728910820)
-    print(msg)
+
